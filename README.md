@@ -12,7 +12,7 @@ La solución fue diseñada siguiendo un enfoque iterativo, pasando por análisis
 
 ## Arquitectura de Datos
 
-Hospital_DER.png
+![Hospital ER Diagram](Hospital_DER.png)
 
 ---
 
