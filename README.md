@@ -105,4 +105,4 @@ La solución fue diseñada siguiendo un enfoque iterativo, pasando por análisis
 
 Daniel Nicolas Pusillico
 
-Analista Funcional | SQL | ERP | CRM | Business Systems Analysis
+Functional Analyst | SQL Developer | Data & Business Systems Professional
